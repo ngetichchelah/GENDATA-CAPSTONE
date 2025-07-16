@@ -28,7 +28,7 @@ By analyzing these patterns, the study aims to identify the most vulnerable stud
   - Gender disparities  
   🔗 [https://uis.unesco.org](https://uis.unesco.org)
 
-## 3. SQL Database Design
+## 3. Database Design
 
 ### 🗃️ Tables and Relationships:
 
@@ -42,7 +42,7 @@ By analyzing these patterns, the study aims to identify the most vulnerable stud
 - `completion_stats.region_id` → `regions.region_id`
 
 
-## 4. SQL Queries (BigQuery or MySQL)
+## 4. Queries
 
 ### a) Dropout Rate by Year and Gender
 
@@ -51,7 +51,7 @@ By analyzing these patterns, the study aims to identify the most vulnerable stud
 ### c) Age Group Dropout Trends
 
 
-## 5. Tableau Dashboard
+## 5. Dashboard
 
 ### Visualizations :
 - Dropout rate by year and gender
