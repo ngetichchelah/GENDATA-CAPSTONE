@@ -32,14 +32,14 @@ By analyzing these patterns, the study aims to identify the most vulnerable stud
 
 ### 🗃️ Tables and Relationships:
 
-#### `regions`
-#### `dropout_statistics`
-#### `completion_statistics`
-#### (Optional) `students` *(if simulating individual data)*
+#### regions
+#### dropout_statistics
+#### completion_statistics
+#### (Optional) students *(if consid simulating individual data)*
 
 **Relationships:**  
-- `dropout_stats.region_id` → `regions.region_id`  
-- `completion_stats.region_id` → `regions.region_id`
+- dropout_stats.region_id → regions.region_id 
+- completion_stats.region_id → regions.region_id
 
 
 ## 4. Queries
