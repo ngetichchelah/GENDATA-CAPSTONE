@@ -44,11 +44,11 @@ By analyzing these patterns, the study aims to identify the most vulnerable stud
 
 ## 4. Queries
 
-### a) Dropout Rate by Year and Gender
+a) Dropout Rate by Year and Gender
 
-### b) Regional Dropout Comparison
+b) Regional Dropout Comparison
 
-### c) Age Group Dropout Trends
+c) Age Group Dropout Trends
 
 
 ## 5. Dashboard
