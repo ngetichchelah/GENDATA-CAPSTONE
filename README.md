@@ -1,6 +1,6 @@
 ## GENDATA-CAPSTONE_1
     
-# 📚 Kenyan High Schools Dropout and Completion Analysis
+# 📚 Kenyan High Schools Dropout and Completion Analysis  📚
 
 ## 1. Business Problem / Research Question
 
@@ -12,7 +12,7 @@ By analyzing these patterns, the study aims to identify the most vulnerable stud
 
 ## 2. Data Sources
 
-### ✅ Kenya National Bureau of Statistics (KNBS)
+### a) Kenya National Bureau of Statistics (KNBS)
 - **Economic Survey 2024 (Education Section)**  
   Contains yearly enrollment, dropout, and completion stats by gender and region.  
   🔗 [https://www.knbs.or.ke](https://www.knbs.or.ke)
@@ -20,7 +20,7 @@ By analyzing these patterns, the study aims to identify the most vulnerable stud
 - **Census Analytical Report on Education**  
   Historical context and dropout data by region, gender, and age group.
 
-### ✅ UNESCO Institute for Statistics (UIS)
+### b) UNESCO Institute for Statistics (UIS)
 - Global education indicators on:
   - Dropout rates (secondary)
   - Gross and net enrollment ratios
