@@ -2,7 +2,7 @@
     
 # 📚 Kenyan High Schools Dropout and Completion Analysis  📚
 
-## 1. Business Problem / Research Question
+## 1. Research Problem / Question
 
 This project seeks to answer:
 
