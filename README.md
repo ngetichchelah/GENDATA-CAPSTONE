@@ -1,80 +1,41 @@
-## GENDATA-CAPSTONE_1
-    
-# 📚 Kenyan High Schools Dropout and Completion Analysis  📚
+# Paper Trails
+### KCSE Candidature Trends in Kenya (2022–2024)
 
-## 1. Research Problem / Question
+✨ Project Summary
+This project, Paper Trails, investigates trends in Kenya Certificate of Secondary Education (KCSE) examination participation across gender, age group, county, region, and year for the period 2022 to 2024.
 
-This project seeks to answer:
+🧠 Problem Statement
+Having just completed my own journey through school, I was overwhelmed with gratitude. Though typical of every gratitude moment in a human being , thoughts drifted in comparison to the countless students who never made it to the end. Whether due to inequality, systemic failures, or socioeconomic challenges, they did not get the chance to prove their educational journey. This project is a way of asking: how can we help more students make it to the finish line?
 
-**How have dropout and completion rates among high school students in Kenya evolved over time, and how do these patterns vary by gender, age group, and region?**
+🔍 Research Question
+How do KCSE examination participation rates vary by gender, age group, and county in Kenya, and what trends emerge over time?
 
-By analyzing these patterns, the study aims to identify the most vulnerable student groups and recommend data-driven interventions to improve school retention and policy outcomes.
+🎯 Why This Analysis Is Important
+KCSE candidature as a proxy for educational success – Students sitting the KCSE represent those who have successfully navigated Kenya’s secondary education system.
 
-## 2. Data Sources
+Regional equity analysis – County-level data reveals disparities and inequalities in access and retention.
 
-### a) Kenya National Bureau of Statistics (KNBS)
-- **Economic Survey 2024 (Education Section)**  
-  Contains yearly enrollment, dropout, and completion stats by gender and region.  
-  🔗 [https://www.knbs.or.ke](https://www.knbs.or.ke)
+Gender parity insights – Identifies gender gaps and geographical variance in female vs male completion rates.
 
-- **Census Analytical Report on Education**  
-  Historical context and dropout data by region, gender, and age group.
+Age pattern analysis – Over-age candidature often reveals issues like delayed school entry, repetition, or dropout-reentry cycles.
 
-### b) UNESCO Institute for Statistics (UIS)
-- Global education indicators on:
-  - Dropout rates (secondary)
-  - Gross and net enrollment ratios
-  - Completion rates
-  - Gender disparities  
-  🔗 [https://uis.unesco.org](https://uis.unesco.org)
+Policy relevance – This analysis supports evidence-based education planning and resource allocation.
 
-## 3. Database Design
+📌 Key Questions Explored
+Which counties are underperforming in getting students to KCSE level?
 
-### 🗃️ Tables and Relationships:
+Are there regional patterns in gender disparities?
 
-#### regions
-#### dropout_statistics
-#### completion_statistics
-#### (Optional) students *(if consid simulating individual data)*
+How do age distributions vary across counties?
 
-**Relationships:**  
-- dropout_stats.region_id → regions.region_id 
-- completion_stats.region_id → regions.region_id
+What trends emerge in candidature between 2022 and 2024?
 
+📈 Data Scope
+Years: 2022, 2023, 2024
 
-## 4. Queries
+Categories: Gender, Age Group, County, Region, Registration vs Sitting
 
-a) Dropout Rate by Year and Gender
+📚 Data Source
+Kenya National Examinations Council (KNEC)
 
-b) Regional Dropout Comparison
-
-c) Age Group Dropout Trends
-
-
-## 5. Dashboard
-
-### Visualizations :
-- Dropout rate by year and gender
-- Dropout rate by region
-- Dropouts by age group
-- Completion trend by gender
-- View trends by region, year, and gender
-
-
-## 6. Stretch goals
-
-###Data Gaps:
-- Reasons for dropout (e.g. fees, teen pregnancy, early marriage) are not recorded
-- Real-time data is not available — most datasets lag by 1–2 years
-- County-level breakdowns could be more detailed
-
-###Future Opportunities:
-- Apply machine learning to predict dropout risks using socioeconomic data
-- Link to **school infrastructure and teacher availability** data
-
-
-## Target audience/client
-The long-term goal is to support education policymakers, school administrators, and NGOs with actionable insights to improve school retention and re-enrollment programs, particularly for vulnerable students.
-
-    
-
+Ministry of Education, Kenya
