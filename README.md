@@ -3,8 +3,6 @@
 
 https://kcse-pathways.lovable.app/
 
-https://6000-firebase-studio-1753380244084.cluster-cbeiita7rbe7iuwhvjs5zww2i4.cloudworkstations.dev/
-
 ✨ Project Summary
 This project, Paper Trails, investigates trends in Kenya Certificate of Secondary Education (KCSE) examination participation across gender, age group, county, region, and year for the period 2022 to 2024.
 
